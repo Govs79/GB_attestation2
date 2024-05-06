@@ -1,2 +1,2 @@
 # GB_attestation2
-##Решение задачи по one hot##
+Решение задачи по one hot
